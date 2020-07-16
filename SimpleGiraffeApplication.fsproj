@@ -9,10 +9,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <_ContentIncludedByDefault Remove="Properties\launchSettings.json" />
-  </ItemGroup>
-
-  <ItemGroup>
     <PackageReference Include="Giraffe" Version="4.1.0" />
   </ItemGroup>
 
